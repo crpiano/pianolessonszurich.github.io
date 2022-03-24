@@ -1,5 +1,5 @@
 ---
-title: "Lessons' program"
+title: "Lessons in Zürich"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
