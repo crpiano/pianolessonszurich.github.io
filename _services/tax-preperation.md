@@ -6,10 +6,7 @@ weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Lorem markdownum **Achaica revolutaque amore**,
 
 > The first lesson with Clara was really great. She is so passionate about teaching and tailors everything in the lesson to your goals and music taste. Communication was great, especially after the lesson, where she sends feedback and exercises to keep you motivated through the week. I am really looking forward to continuing the lessons with her! (Jenny)
 
