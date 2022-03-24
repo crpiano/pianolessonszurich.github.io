@@ -43,19 +43,10 @@ I offer piano classes throughout the whole year. The calendar is flexible and I 
 ## Equipment and Lesson materials
 You'll only need to have a digital or acoustic piano at home. The rest of materials are provided.
 
----
-
 ## Also offer
 Shared piano lessons and parent-child piano lessons. 
 
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-##**You will:**
-
+## You will
 * Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
 * Lose your fear of music theory by studying it applied to the pieces that you learn.
 * Write your own songs, improvise and train your musical ear.
@@ -73,6 +64,10 @@ Cash Inflow | Outflow | Opening Balance
 
 
 
+Cash Inflow | Outflow | Opening Balance
+--- | --- | ---
+*Monday* | `Tuesday` | **Wednesday**
+1 | 2 | 3
 
 **Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
 
