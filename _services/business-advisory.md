@@ -45,7 +45,7 @@ Lesson length | At theacher's location and online | At the student's place
 10. The teacher offers a period of extra lessons at the end of the school year
 11. The teacher organizes supplementary classes during the semester. These lessons are planned in advance. 
 12. Departures will be announced no later than one month before the end of the lessons.
-13. The student agrees to follow these policies.
+13. Lessons are taught in English or Spanish.
+14. The student agrees to follow these policies.
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+If you have any doubt, feel free to contact me.
