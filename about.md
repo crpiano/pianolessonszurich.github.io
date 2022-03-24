@@ -2,7 +2,6 @@
 title: About
 layout: teams
 description: About
-permalink: "/media/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
