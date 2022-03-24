@@ -5,46 +5,37 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+One-to-one private piano lessons, or couple piano lessons where we focus on **your goals and music taste**.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+## Location 
+At the teacher's place (in Zürich Oerlikon) and home visits in Zürich area.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Language
+Lessons are taught in English or Spanish.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Age
+From 5 to 99 years old.
 
-## Relevance
+## Level
+Beginner, intermediate and advance.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## Lesson length
+45, 60, 90 minutes
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+> I recomend that small children start with 45 min of lesson
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Calendar
+I offer piano classes throughout the whole year. The calendar is flexible and I can adapt to your availability. 
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## Equipment and Lesson materials
+You'll only need to have a digital or acoustic piano at home. The rest of materials are provided.
 
 ---
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+## Also offer
+Shared piano lessons and parent-child piano lessons. 
 
 Cash Inflow | Outflow | Opening Balance
 --- | --- | ---
