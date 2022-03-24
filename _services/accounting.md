@@ -5,8 +5,7 @@ featured: true
 weight: 1
 ---
 
-Piano Lessons in English and Spanish for Children and Adults. At your home, via webcam or at the teacher's location in central Zürich
-we focus on **your goals and music taste**.
+Piano Lessons in English and Spanish for Children and Adults where we focus on **your goals and music taste**. At your home, via webcam or at the teacher's location in Zürich Oerlikon
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
