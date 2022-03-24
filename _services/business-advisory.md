@@ -14,10 +14,11 @@ duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
 Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
 remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
 
- | At theacher's location and online | At the student's place
+Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-*45 minutes* | `Tuesday` | **Wednesday**
-60 minutes | 2 | 3
+45 minutes | 74 CHF | 81 CHF
+60 minutes | 101 CHF | 107 CHF
+90 minutess | 153 CHF| 159 CHF
 
 ## Inter pectore totidem
 
