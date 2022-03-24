@@ -34,8 +34,8 @@ Lesson length | At theacher's location and online | At the student's place
 ## Policies
 
 1. The trial lesson price can only be used once. Afterwards, the lessons are booked in packages: this ensures commitment. 
-2. Attendance
-3. Ad dedit parentem
+2. Attendance: the lesson is cancelled and
+3. The teacher offers a period of extra lessons at the end of the school year
 4. Linguae pendent
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
