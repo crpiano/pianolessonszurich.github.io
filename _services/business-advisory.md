@@ -13,6 +13,7 @@ laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
 duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
 Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
 remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+## Price per lesson
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
@@ -20,10 +21,13 @@ Lesson length | At theacher's location and online | At the student's place
 60 minutes | 101 CHF | 107 CHF
 90 minutess | 153 CHF| 159 CHF
 
-## Inter pectore totidem
+## Package of 5 lessons (price per lesson, 5% discount)
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+Lesson length | At theacher's location and online | At the student's place
+--- | --- | ---
+45 minutes | 70,3 CHF | 76,95 CHF
+60 minutes | 95,95 CHF | 191,65 CHF
+90 minutess | 145,35 CHF| 151,05 CHF
 
 ## Novis hunc qua erat caecisque
 
