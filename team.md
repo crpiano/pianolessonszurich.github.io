@@ -2,7 +2,7 @@
 title: About
 layout: teams
 description: Team
-permalink: "/about/"
+permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
