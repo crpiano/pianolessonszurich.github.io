@@ -51,24 +51,25 @@ Cash Inflow | Outflow | Opening Balance
 1 | 2 | 3
 
 
-**Program:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
--Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
--Lose your fear of music theory by studying it applied to the pieces that you learn.
--Write your own songs, improvise and train your musical ear.
--Learn several styles of music, starting from a classical approach and taking into account your preferences.
--Play four hands duets with me, other students, or a family member.
--Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
--Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
--Get constant feedback during the week.
--Gain confidence in yourself thanks to your successes.
--Celebrate and share your successes, feeling part of a supportive community.
--Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
--Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
--Prepare for tests.
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+**You will:**
+
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
+* Lose your fear of music theory by studying it applied to the pieces that you learn.
+* Write your own songs, improvise and train your musical ear.
+* Learn several styles of music, starting from a classical approach and taking into account your preferences.
+* Play four hands duets with me, other students, or a family member.
+* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
+* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
+* Get constant feedback during the week.
+* Gain confidence in yourself thanks to your successes.
+* Get constant feedback during the week.
+* Celebrate and share your successes, feeling part of a supportive community.
+* Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
+* Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
+* Prepare for tests.
+
+
+
 
 **Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
 
