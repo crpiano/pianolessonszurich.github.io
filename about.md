@@ -1,7 +1,7 @@
 ---
 title: About
 layout: teams
-description: Team
+description: About
 permalink: "/about/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
