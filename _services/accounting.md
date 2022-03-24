@@ -10,26 +10,30 @@ Piano Lessons in English and Spanish for Children and Adults where we focus on *
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Location 
- *At teacher's location: Oerlikon, Zürich, Switzerland
- *At student's location: Around Zurich, Switzerland
- *Online via webcam
+* At teacher's location: Oerlikon, Zürich, Switzerland
+* At student's location: Around Zurich, Switzerland
+* Online via webcam
+
 ## Language
- *English
- *Spanish
+* English
+* Spanish
+
 ## Age
- -Preschool children (4-6 years old)
- -Children (7-12 years old)
- -Teenagers (13-17 years old)
- -Adults (18-64 years old)
- -Seniors (65+ years old)
+* Preschool children (4-6 years old)
+* Children (7-12 years old)
+* Teenagers (13-17 years old)
+* Adults (18-64 years old)
+* Seniors (65+ years old)
+
 ## Level
- -Beginner
- -Intermediate
- -Advance
+* Beginner
+* Intermediate
+* Advance
+ 
 ## Lesson length
- -45 minutes
- -60 minutes
- -90 minutes
+* 45 minutes
+* 60 minutes
+* 90 minutes
 
 > I recomend that small children start with 45 min of lesson
 
