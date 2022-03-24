@@ -7,7 +7,7 @@ weight: 2
 
 Current rates for 2021-2022
 
-## Price of trial lesson (only once)
+## Price of trial lesson (for the first two lessons)
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
@@ -33,10 +33,19 @@ Lesson length | At theacher's location and online | At the student's place
 
 ## Policies
 
-1. The trial lesson price can only be used once. Afterwards, the lessons are booked in packages: this ensures commitment. 
-2. Attendance: the lesson is cancelled and
-3. The teacher offers a period of extra lessons at the end of the school year
-4. Linguae pendent
+1. New students can get a trial period of 2 lessons. After that, lessons are booked in packages. This ensures commitment.
+2. Payments will be made by E-banking or PayPal as soon as the new period of 5 lessons starts. 
+3. The payment of the 5 lessons is in advance and is payed fully even in case of abandon.
+4. Except in cases of force majeure, no lesson will be refunded. Lessons missed by students are not replaced.
+5. The lesson can be cancelled in the event of unforeseen circumstances. In this case, the missed lesson will be changed to an available timetable. 
+6. Lessons are taught once per week. 
+7. Lessons are given on Monday, Tuesday, Wednesday, Thursday and Friday from 9am to 19:30pm. 
+8. Each student selects a time for the class and comits to come each week at this slot. 
+9. Public holidays will be caught up as soon as possible in the following month according to everyone's availability.
+10. The teacher offers a period of extra lessons at the end of the school year
+11. The teacher organizes supplementary classes during the semester. These lessons are planned in advance. 
+12. Departures will be announced no later than one month before the end of the lessons.
+13. The student agrees to follow these policies.
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
 isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
