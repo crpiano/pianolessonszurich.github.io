@@ -2,11 +2,11 @@ main:
   - name: "Piano Lessons"
     url: "/services/"
     weight: 2
-  - name: "Media"
-    url: "/media/"
-    weight: 3
   - name: "About"
     url: "/about/"
+    weight: 3
+  - name: "Media"
+    url: "/media/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
