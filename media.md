@@ -1,7 +1,7 @@
 ---
 title: Media
 layout: page
-description: About
+description: Media
 permalink: "/media/"
 bodyClass: page-about
 ---
