@@ -11,12 +11,12 @@ we focus on **your goals and music taste**.
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Location 
- -At teacher's location: Oerlikon, Zürich, Switzerland
- -At student's location: Around Zurich, Switzerland
- -Online via webcam
+ *At teacher's location: Oerlikon, Zürich, Switzerland
+ *At student's location: Around Zurich, Switzerland
+ *Online via webcam
 ## Language
- -English
- -Spanish
+ *English
+ *Spanish
 ## Age
  -Preschool children (4-6 years old)
  -Children (7-12 years old)
