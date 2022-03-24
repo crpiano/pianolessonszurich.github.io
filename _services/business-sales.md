@@ -5,45 +5,35 @@ featured: true
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+I have a program specifically designed for children between 4 to 10 years old, where they learn not only the basics of piano playing, but all the necessary skills to become well-rounded musicians.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+In my classes, my students learn music comprehensively. My personalized lessons do not only focus on repertoire, but also on music theory, sight-reading, ear training, improvisation, and composition. This allows them to express themselves through several styles of music, creating performances full of artistry and musicality, but also to create their own music. They also learn music history through supplementary group lessons and play four hands duets with other students or me. They learn while having fun and they become well-rounded and knowledgeable musicians.
 
-## Geniti facinus praeruptam atris ab manus in
+## Goals
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+My personal mission is to keep children motivated and committed to playing the piano. With this purpose, I use a method adapted to each child, where the student learns not only how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! The goal is to play the pieces you love soon!
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## My approach
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+1. **They learn while having fun**: Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way.
+2. **Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes. 
+3. **Constant communication**: They don't learn alone: they are connected constantly to the teacher and with their classmates.
+4. **Use of supplementary activities**: Children can share their progress with their family and friends in their recitals, and they can discover new music, pianists, composers, and much more in supplementary activities. 
 
-## Vidit si probetne vertitur
+## Contents
+My students:
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
+* Lose your fear of music theory by studying it applied to the pieces that you learn.
+* Write your own songs, improvise and train your musical ear.
+* Learn several styles of music, starting from a classical approach and taking into account your preferences.
+* Play four hands duets with me, other students, or a family member.
+* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
+* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
+* Get constant feedback during the week.
+* Gain confidence in yourself thanks to your successes.
+* Get constant feedback during the week.
+* Celebrate and share your successes, feeling part of a supportive community.
+* Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
+* Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
+* Prepare for tests.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
