@@ -5,24 +5,32 @@ featured: true
 weight: 1
 ---
 
-One-to-one private piano lessons, or couple piano lessons where we focus on **your goals and music taste**.
+Piano Lessons in English and Spanish for Children and Adults. At your home, via webcam or at the teacher's location in central Zürich
+we focus on **your goals and music taste**.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Location 
-At the teacher's place (in Zürich Oerlikon) and home visits in Zürich area.
-
+ -At teacher's location: Oerlikon, Zürich, Switzerland
+ -At student's location: Around Zurich, Switzerland
+ -Online via webcam
 ## Language
-Lessons are taught in English or Spanish.
-
+ -English
+ -Spanish
 ## Age
-From 5 to 99 years old.
-
+ -Preschool children (4-6 years old)
+ -Children (7-12 years old)
+ -Teenagers (13-17 years old)
+ -Adults (18-64 years old)
+ -Seniors (65+ years old)
 ## Level
-Beginner, intermediate and advance.
-
+ -Beginner
+ -Intermediate
+ -Advance
 ## Lesson length
-45, 60, 90 minutes
+ -45 minutes
+ -60 minutes
+ -90 minutes
 
 > I recomend that small children start with 45 min of lesson
 
