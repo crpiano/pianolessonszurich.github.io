@@ -1,5 +1,5 @@
 ---
-title: About
+title: Media
 layout: page
 description: About
 bodyClass: page-about
