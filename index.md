@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Piano Lessons in Zürich with Clara
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Piano Lessons in Zürich Oerlikon and home visits in Zürich area
 intro_image: "images/illustrations/Screenshot 2022-03-23 at 10.40.14.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Piano Lessons in Zürich with Clara
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Piano Lessons in Zürich Oerlikon and home visits in Zürich area
