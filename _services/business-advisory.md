@@ -7,7 +7,7 @@ weight: 2
 
 Current rates for 2021-2022
 
-## Price of trial lesson (for the first two lessons)
+## Price of trial lesson
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
