@@ -2,7 +2,7 @@
 title: Media
 layout: page
 description: media
-permalink: "/about/"
+permalink: "/media/"
 bodyClass: page-about
 ---
 
