@@ -14,10 +14,10 @@ duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
 Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
 remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
 
-Cash Inflow | Outflow | Opening Balance
+ | At theacher's location and online | At the student's place
 --- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+*45 minutes* | `Tuesday` | **Wednesday**
+60 minutes | 2 | 3
 
 ## Inter pectore totidem
 
