@@ -5,48 +5,35 @@ featured: true
 weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+A program for ages 11 to 99, where teenagers and adults can make their goals and musical aspirations true, through an engaging method, that will get them quickly to play the pieces they love. 
 
-## Ne verba patulosque numen vix libet
+In my classes, my students learn music comprehensively. My personalized lessons do not only focus on repertoire, but also on music theory, sight-reading, ear training, improvisation, and composition. This allows them to express themselves through several styles of music, creating performances full of artistry and musicality, but also to create their own music. They also learn music history through supplementary group lessons and play four hand duets with other students or me. They learn while having fun and they become well-rounded and knowledgeable musicians.  
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Goals
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+My personal mission is to keep you motivated and committed to playing the piano. With this purpose, I use a method adapted to each student, taking into account what you want to achieve and what you like. They won't only know how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! We'll focus on the topics that you want to learn better.
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## My approach
 
-## Postquam tamen
+1. **You learn piano at your own pace**: With a personalized and progressive method, which takes into account your lifestyle and expectations.
+2. **With unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes. 
+3. **Constant communication**: Be connected constantly to your teacher and solve your doubts instantly.
+4. **Use of supplementary activities**: Participate in supplementary group lessons, recitals, and community-building events. Feel part of a community that motivates you and helps you commit to your learning.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Contents
+My students:
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
+* Lose your fear of music theory by studying it applied to the pieces that you learn.
+* Write your own songs, improvise and train your musical ear.
+* Learn several styles of music, starting from a classical approach and taking into account your preferences.
+* Play four hands duets with me, other students, or a family member.
+* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
+* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
+* Get constant feedback during the week.
+* Gain confidence in yourself thanks to your successes.
+* Get constant feedback during the week.
+* Celebrate and share your successes, feeling part of a supportive community.
+* Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
+* Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
+* Prepare for tests.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
