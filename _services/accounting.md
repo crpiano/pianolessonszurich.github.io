@@ -54,7 +54,7 @@ Cash Inflow | Outflow | Opening Balance
 1 | 2 | 3
 
 
-**You will:**
+##**You will:**
 
 * Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
 * Lose your fear of music theory by studying it applied to the pieces that you learn.
