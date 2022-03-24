@@ -13,8 +13,8 @@ logo:
 collections:
   services:
     output: true
-  team:
-    output: true
+#  team:
+#    output: true
 
 defaults:
   - scope:
