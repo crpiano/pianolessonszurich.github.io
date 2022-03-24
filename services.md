@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Piano Lessons
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Learn, practice, and feed your passion for music.  Experience online and in-person piano lessons for all ages and levels. Acquire a life-long passion for music!
+
