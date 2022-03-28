@@ -61,37 +61,3 @@ Shared piano lessons and parent-child piano lessons.
 * Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
 * Prepare for tests.
-
-
-## Reviews
-> The first lesson with Clara was really great. She is so passionate about teaching and tailors everything in the lesson to your goals and music taste. Communication was great, especially after the lesson, where she sends feedback and exercises to keep you motivated through the week. I am really looking forward to continuing the lessons with her! (Jenny)
-
-> The first lesson with Clara was really great. She is so passionate about teaching and tailors everything in the lesson to your goals and music taste. Communication was great, especially after the lesson, where she sends feedback and exercises to keep you motivated through the week. I am really looking forward to continuing the lessons with her! (Madre)
-
-> The first lesson with Clara was really great. She is so passionate about teaching and tailors everything in the lesson to your goals and music taste. Communication was great, especially after the lesson, where she sends feedback and exercises to keep you motivated through the week. I am really looking forward to continuing the lessons with her! (Alumno)
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
