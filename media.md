@@ -8,14 +8,16 @@ bodyClass: page-about
 
 **Piano Performances**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyCMpnyrAHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VYXBaJ_6zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Piano Class**
 
 The students are invited to share their progress on their own YouTube channel. Check it out to find out what we do in the lessons! Check the channel here. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyCMpnyrAHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xvI8Gmez5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Music Channel**
 
 In this channel, piano students can find many different pieces for playing, which can serve as inspiration for creating their own repertoire. Check the channel here.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyCMpnyrAHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1IE7DMMXmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
