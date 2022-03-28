@@ -1,6 +1,6 @@
 main:
   - name: "Piano Lessons"
-    url: "/pianolessons/"
+    url: "/services/"
     weight: 2
   - name: "About"
     url: "/about/"
