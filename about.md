@@ -18,7 +18,7 @@ My name is Clara and I'm a classically-trained pianist and a piano teacher. I fu
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
 in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. 
 
-##**My teaching philosophy**
+## My teaching philosophy
 
 They say, “all you need to learn piano is talent and motivation”, but I believe there’s more to it than that...
 
