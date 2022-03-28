@@ -10,12 +10,15 @@ intro_image_hide_on_mobile: false
 
 My name is Clara and I'm a classically-trained pianist and a piano teacher. I fully dedicate myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
 
+ <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160489496-d1804178-0e6d-4792-9127-17dedb4b21d9.png">
+
+
+## Formación
 
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
 in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. 
- <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160489496-d1804178-0e6d-4792-9127-17dedb4b21d9.png">
 
-**My teaching philosophy**
+##**My teaching philosophy**
 
 They say, “all you need to learn piano is talent and motivation”, but I believe there’s more to it than that...
 
