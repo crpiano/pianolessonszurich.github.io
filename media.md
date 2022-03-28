@@ -8,6 +8,8 @@ bodyClass: page-about
 
 **Piano Performances**
 
+Performance of Schumann's Sonata no. 2, 4th movement (Presto).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VYXBaJ_6zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Piano Class**
