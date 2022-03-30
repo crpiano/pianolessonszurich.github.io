@@ -17,6 +17,8 @@ My name is Clara and I'm a classically-trained pianist and a piano teacher. I fu
 
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
 in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. 
+My personal mission is to keep you motivated and committed to playing the piano. With this purpose, I use a method adapted to each student, taking into account what you want to achieve and what you like. They won't only know how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! We'll focus on the topics that you want to learn better.
+
 
 ## My teaching philosophy
 
@@ -28,6 +30,8 @@ They say, “all you need to learn piano is talent and motivation”, but I beli
 * I believe in the importance of sharing your passion and your successes, and setting goals that make you feel focused and keep track of your progress.
 
 Learning music...
+
+My personal mission is to keep you motivated and committed to playing the piano. With this purpose, I use a method adapted to each student, taking into account what you want to achieve and what you like. They won't only know how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! We'll focus on the topics that you want to learn better.
 
 * Connects you with others. It breaks barriers, brings people together, and creates beautiful communities of people that share the same goals.
 * Changes your life, makes you reconnect with your inner self, opens up the possibility of expressing yourself through a unique language, and creates an intimate bond between the music and you.
