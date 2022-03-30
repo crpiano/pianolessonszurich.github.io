@@ -2,7 +2,7 @@
 title: Piano Lessons
 layout: services
 description: Services
-intro_image: "images/illustrations/Screenshot 2022-03-23 at 10.48.44.png"
+intro_image: "images/illustrations/one-continuous-line-drawing-of-luxury-analog-grand-piano-trendy-classical-music-instruments-concept-single-line-draw-design-graphic-illustration-vector.jpeg"
 intro_image_absolute: true
 intro_image_show_on_mobile: true
 ---
