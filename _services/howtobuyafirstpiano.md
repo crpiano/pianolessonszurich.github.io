@@ -8,9 +8,9 @@ layout: service
 
 Deciding to learn piano is the first step on an incredibly rewarding journey. The instrument you choose to accompany you on this trip will be a daily source of satisfaction, and its presence in your home will change your life and the lives of the people around you. In this post I will give you all the information you need to choose a piano to start learning.
 
-# > Parte 1: Minimums of a piano for beginners and options
+# Parte 1: Minimums of a piano for beginners and options
 
-## > What do I have to know before I start looking at pianos?
+## What do I have to know before I start looking at pianos?
 
 If you are committed to learning piano you need a good instrument. Many times we think that it is better to buy a cheaper instrument to start, as it involves a lower economic investment. If you do so, you will soon see that your instrument is holding you back in your learning process. For example, if your keyboard only has 5 octaves, how are you going to play pieces that span more? Or if your keys are not heavy, how are you going to develop a good technique?
 
