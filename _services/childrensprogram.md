@@ -20,10 +20,10 @@ My personal mission is to keep children motivated and committed to playing the p
 
 My approach | 
 --- |
-**They learn while having fun**: Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way | 
-**Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes | 
-**Constant communication**: They don't learn alone: they are connected constantly to the teacher and with their classmates | 
-**Use of supplementary activities**: Children can share their progress with their family and friends in their recitals, and they can discover new music, pianists, composers, and much more in supplementary activities |  
+**1. They learn while having fun**: Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way | 
+**2. Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes | 
+**3. Constant communication**: They don't learn alone: they are connected constantly to the teacher and with their classmates | 
+**4. Use of supplementary activities**: Children can share their progress with their family and friends in their recitals, and they can discover new music, pianists, composers, and much more in supplementary activities |  
 
 ## Contents
 My students:
