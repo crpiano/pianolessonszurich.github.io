@@ -8,9 +8,9 @@ layout: service
 
 Deciding to learn piano is the first step on an incredibly rewarding journey. The instrument you choose to accompany you on this trip will be a daily source of satisfaction, and its presence in your home will change your life and the lives of the people around you. In this post I will give you all the information you need to choose a piano to start learning.
 
-## Minimums of a piano for beginners and options
+# Parte 1: Minimums of a piano for beginners and options
 
-# What do I have to know before I start looking at pianos?
+## What do I have to know before I start looking at pianos?
 
 If you are committed to learning piano you need a good instrument. Many times we think that it is better to buy a cheaper instrument to start, as it involves a lower economic investment. If you do so, you will soon see that your instrument is holding you back in your learning process. For example, if your keyboard only has 5 octaves, how are you going to play pieces that span more? Or if your keys are not heavy, how are you going to develop a good technique?
 
@@ -26,7 +26,7 @@ But then, you may ask: "do I have to buy an expensive instrument?" You don't hav
 
 You can also consider the option of renting a piano or buying a second-hand one, making sure it is in good condition.
 
-# What are the minimums that your initiation instrument should have?
+## What are the minimums that your initiation instrument should have?
 
 A good instrument to start should have the following minimums:
 
@@ -40,7 +40,7 @@ In the case of acoustic pianos, the sound is produced by the hammer hitting the 
 
 In the case of digital pianos and electronic keyboards, the instrument has no strings. Each of the keys creates a sound, which is produced by an electronic sound generator. These sounds are then amplified and emitted through a speaker. Since they don't have the same mechanics as an acoustic piano, they use different techniques to recreate it. The realism of this mechanism varies between different types of digital pianos. For example, there are some which use hammers in imitation of the acoustic piano, getting closer to the real feel. However, others do not have the weighted keyboard. A non-weighted keyboard is not linked to not being able to perform dynamics. Some electronic keyboards have what is called "velocity-sensitive", so that, although they are not counterbalanced, they are capable of capturing the speed with which we press the key and emit a different volume for each type of keystroke.
 
-# So what piano options could I buy?
+## So what piano options could I buy?
 
 Before starting with the options, it is important to note that the electronic or household keyboard would not be considered a good beginner-level instrument. It is the cheapest (they usually cost between 180-400 euros) and it is aimed at having fun at home. It is very useful for playing pop or rock songs, as it has a large number of sounds and accompaniments. It's a lot of fun, but it lacks all the essentials of a good starter instrument. It usually has between 49-76 unweighted keys, which will not allow you to move forward and will make you frustrated very soon. Sometimes they have velocity-sensitive keys, which allow you to make a higher or lower volume of sound, but its mechanism is too basic.
 
@@ -48,11 +48,11 @@ Therefore, we will not consider the electronic keyboard, and we will focus on th
 1. Portable digital piano and cabinet digital piano 
 2. Acoustic upright or grand piano, or hybrid upright or grand piano
 
-## Part 2: Digital pianos
+# Part 2: Digital pianos
 
 In this post, we will talk about the portable digital piano (also called slab piano) and the console digital piano. Both are digital pianos, but they differ in their portability. The so-called slab piano doesn't have an attached stand, so it is optimized for travel, while the console digital piano is intended to be more stationary at home. They both have 88 weighted, dynamics-sensitive keys. Their price starts usually from 400 euros.
 
-# What things can I take into account when deciding on one digital keyboard or another?
+## What things can I take into account when deciding on one digital keyboard or another?
 
 * Sounds and accompaniment. Electronic keyboards are designed for fun, and usually have a large sounds library: they are loaded with rhythmic patterns, accompaniments, and sounds of various instruments. In contrast, digital pianos do not usually have many accompaniments or large sound libraries. They normally have between 5 and 20 different types of sounds (different types of piano, electric piano, harpsichord, organ, guitar, string orchestra ...). After all, you will not need all these functions. Too many extra functions and special effects can be a bit overwhelming and distracting.
 * Polyphony. Polyphony is the number of notes that can sound at the same time. In acoustic pianos we have total polyphony, that is, we can make all the notes of the piano play at the same time and its strings will vibrate. In contrast, in electronic keyboards and digital pianos, there are differences in the number of sounds they can generate at the same time. Electronic keyboards typically only produce up to 48, which will not be enough when you start progressing on the piano. The ideal thing would be a digital piano with 256 voices of polyphony or, if that is not possible, at least 192. You may wonder, but isn't it impossible to find a piece where all 88 keys sound simultaneously? Yes, it would be weird, but we are not talking only about the sounds that you can produce with each key or several keys at the same time at a certain moment, but also about the notes that are left sounding when you have your fingers pressing the keys or these keys are sounding by using the sustain pedal. All this will influence the number of sounds. After the limit number of polyphony that your piano supports, the first notes will fade. Therefore, the more polyphony you have, the more complex pieces you can play.
@@ -61,7 +61,7 @@ In this post, we will talk about the portable digital piano (also called slab pi
 * Price: digital pianos vary greatly in price. It will depend on the brand, the model, the type of mechanism... They can also be bought second-hand, since the risk that they are not in good condition is not as big as in an acoustic piano.
 * Brands: in the market, you will find many brands that offer digital pianos (Yamaha, Kawai, Roland, Casio, etc.). Many companies have different series of piano models. For example, if we talk about Yamaha digital pianos, you will find the P-Series, Clavinova, Arius... Each of us has different tastes regarding how it sounds or how it feels each piano. The idea is that you try as many pianos as you can until you discover which one you like the best.
 
-# What shall I buy apart from the digital piano?
+## What shall I buy apart from the digital piano?
 
 * It is very important to buy together with the piano:
 * An adjustable bench. It is very important to use a piano bench and not a simple chair, as the bench will allow you to correctly adjust your height and maintain a good posture.
@@ -70,7 +70,7 @@ In this post, we will talk about the portable digital piano (also called slab pi
 * Headphones (optional).
 
 
-# Examples of digital pianos
+## Examples of digital pianos
 
 You will below find different models of digital pianos from different brands. The prices are approximate (please, check them in the shop).
 
@@ -180,9 +180,9 @@ AP470 (919 euros)
 AP650 (1059 euros)
 AP710 (1498 euros)
 
-## Part 3: Acoustic and hybrid pianos
+# Part 3: Acoustic and hybrid pianos
 
-# ACOUSTIC PIANO
+## Acoustic Piano
 
 It will give you the original sound and playing experience. The sound of an acoustic piano is created entirely by a physical mechanism, without electronics. This will allow you to enjoy the pleasure of playing an instrument with 100% real sound and mechanics.
 
@@ -200,11 +200,11 @@ The best way to buy an acoustic piano is to go to the store and test them on the
 
 The solution would be to put the Silent mechanism on the acoustic piano or to buy an acoustic piano with this mechanism built-in. The Silent mechanism is a digital module that blocks the contact between the hammers and the strings, allowing you to play the piano with headphones. There are several Silent options, depending on the price. However, if you will be playing the acoustic piano most of the time with the silent system, it is advisable to buy a hybrid piano, since if the hammers and strings are not used, they will end up getting out of tune and not regulated over time.
 
-# HYBRID PIANOS
+## Hybrid Piano
 
 Hybrid pianos, whether upright or grand, have the mechanics of acoustic pianos, but the generation and emission of sound are electronic. This allows you to play with headphones while feeling the authenticity of an acoustic piano. Also, they don't need as much maintenance as acoustic pianos. From time to time they will need some adjustment in some of the parts of the mechanism. Depending on the model, they are cheaper than acoustic pianos. Kawai or Yamaha are very good brands for this type of piano.
 
-## Part 4: Second hand pianos
+# Part 4: Second hand pianos
 
 What if you want to buy a second-hand piano to save money? If the piano is digital, it is easier to check its condition, but, as we have seen before, buying a second-hand acoustic piano has some risks. If you go to a store to try second-hand or restored pianos, it is very important to have the help of a professional who does not belong to that store who can review it objectively. Bargains are not usually a good option. 
 
@@ -220,7 +220,7 @@ In the following videos, you will find important tips to evaluate a used piano.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TqTIroFaac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 5: Where shall I buy the piano?
+# Part 5: Where shall I buy the piano?
 
 There are three main places where you can buy a piano: a store specializing in music or pianos, a private seller, or online. If you want a specific brand, you can check where you can buy it in the dealer locators that I have left linked in this table, where I specify the different types of digital pianos. 
 
@@ -232,7 +232,7 @@ Finally, buying the piano online has its advantages: you can compare prices, rea
 
 In short, it is important to go to the store first and then, if you want, check online. Try out different instruments and bring a piano teacher or technician with you to help you decide on the spot.
 
-## Part 6: Conclusions
+# Part 6: Conclusions
 
 Choosing a good piano to start with, can be overwhelming. Although there are so many options, it is important to keep in mind what our objective is, and what we are willing to invest, since this investment will involve a long-term commitment. Choosing a good piano will fill you with satisfaction and will boost your study. That is why I recommend buying a good instrument, since this will mean a clear commitment to making the piano part of your life, and at the same time it will give you the possibility to move forward and enjoy the journey.
 
