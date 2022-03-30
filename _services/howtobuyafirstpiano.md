@@ -83,20 +83,7 @@ P-Series: P-45 (526 euros), P-125 (751 euros), P-121 (632 euros), P-515 (1.878 e
 **Kawai**
 Transportable digital piano | Console digital piano
 --- | --- 
-ES Series: ES110 (569 euros), ES8 (1.200 euros) | CL Series:
-CL 36 (816 euros)
-CN Series:
-CN29 (1.200 euros)
-CN39 (1.500 euros)
-KDP Series:
-KDP 110 (839 euros)
-CA Series:
-CA-49 (1.900 euros)
-CA-59 (2.500 euros)
-CA-79 (2.999 euros)
-CA-99 (4.333 euros)
-CS Series:
-CS11 (3.600 euros)
+ES Series: ES110 (569 euros), ES8 (1.200 euros) | CL Series: CL 36 (816 euros). CN Series: CN29 (1.200 euros), CN39 (1.500 euros). KDP Series: KDP 110 (839 euros). CA Series: CA-49 (1.900 euros), CA-59 (2.500 euros), CA-79 (2.999 euros), CA-99 (4.333 euros). CS Series: CS11 (3.600 euros)
 
 **Roland**
 Transportable digital piano | Console digital piano
