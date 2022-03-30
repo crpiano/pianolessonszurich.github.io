@@ -74,44 +74,16 @@ In this post, we will talk about the portable digital piano (also called slab pi
 
 You will below find different models of digital pianos from different brands. The prices are approximate (please, check them in the shop).
 
+**Yamaha**
 
-YAMAHA 
+Transportable digital piano | Console digital piano
+--- | --- 
+P-Series: P-45 (526 euros), P-125 (751 euros), P-121 (632 euros), P-515 (1.878 euros), DGX-660 (749 euros) | YDP-S34   (1.017 euros), YDP-144 (1.017 euros), YDP-S54 (1.319 euros), YDP-164 (1.319 euros), CLP Clavinova series (from 1.900 euros), CSP Clavinova series (from 2000 euros), CVP de Clavinova series (from 2500 euros)
 
-- Transportable digital piano
-* P-Series:
-- P-45 (526 euros)
-- P-125 (751 euros)
-- P-121 (632 euros)
-- P-515 (1.878 euros)
-Portable Grand:
-· DGX-660 (749 euros)
-Console digital piano
-Arius Series:
-YDP-S34   (1.017 euros)
-YDP-144 (1.017 euros)
-YDP-S54 (1.319 euros)
-YDP-164 (1.319 euros)
-CLP Clavinova series (from 1.900 euros)
-CSP Clavinova series (from 2000 euros)
-CVP de Clavinova series (from 2500 euros)
-
- 
-KAWAI
-
-Useful links:
-
-Kawai dealers
-Thomann online shop
-
-Transportable digital piano
-
-ES Series:
-ES110 (569 euros)
-ES8 (1.200 euros)
-
-Console digital piano
-
-CL Series:
+**Kawai**
+Transportable digital piano | Console digital piano
+--- | --- 
+ES Series: ES110 (569 euros), ES8 (1.200 euros) | CL Series:
 CL 36 (816 euros)
 CN Series:
 CN29 (1.200 euros)
@@ -126,58 +98,15 @@ CA-99 (4.333 euros)
 CS Series:
 CS11 (3.600 euros)
 
+**Roland**
+Transportable digital piano | Console digital piano
+--- | --- 
+FP Series: Roland FP-10 (450   euros), Roland   FP-30 (589 euros), FP-60 (1.160   euros), FP-90 (1.666   euros) | RP 102 (from 800 euros), RP 501R (from 1.000 euros), F-140 R (from 1.000 euros), HP Series (from 1.500 euros), DP603 (from 2.000 euros)
 
- 
-ROLAND
-
-
-Useful links:
-
-Roland dealers
-Thomann online shop
-
-Transportable digital piano
-
-FP Series:
-Roland FP-10 (450   euros)
-Roland   FP-30 (589 euros)
-FP-60 (1.160   euros)
-FP-90 (1.666   euros)
-
-Console digital piano
-
-RP 102 (from 800 euros)
-RP 501R (from 1.000 euros)
-F-140 R (from 1.000 euros)
-HP Series (from 1.500 euros)
-DP603 (from 2.000 euros)
-
-
- 
-CASIO
-
-Useful links:
-
-Casio dealers
-Thomann online shop
-
-Transportable digital piano
-
-CDP-S100 (340 euros)
-CDP-S350 (480 euros)
-Privia Series:
-PX-S1000 (524 euros)
-PX-S3000 (825 euros)
-
-Console digital piano
-Privia Series:
-PX-870 (799 euros)
-PX-770 (679 euros)
-Celviano Series:
-AP 270 (679 euros)
-AP470 (919 euros)
-AP650 (1059 euros)
-AP710 (1498 euros)
+**Casio**
+Transportable digital piano | Console digital piano
+--- | --- 
+CDP-S100 (340 euros), CDP-S350 (480 euros), PX-S1000 (524 euros), PX-S3000 (825 euros) | PX-870 (799 euros), PX-770 (679 euros), AP 270 (679 euros), AP470 (919 euros), AP650 (1059 euros), AP710 (1498 euros)
 
 # Part 3: Acoustic and hybrid pianos
 
