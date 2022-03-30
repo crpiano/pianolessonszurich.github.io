@@ -7,7 +7,7 @@ weight: 1
 
 Piano Lessons in English and Spanish for Children and Adults where we focus on **your goals and music taste**
 
-![DSC_0042_JPG] img width="390" (https://user-images.githubusercontent.com/101880157/160837447-d68aa53a-005c-4552-8b5e-23cf44008a28.jpg)
+![DSC_0042_JPG](https://user-images.githubusercontent.com/101880157/160837447-d68aa53a-005c-4552-8b5e-23cf44008a28.jpg)
 
 
 ## Location 
