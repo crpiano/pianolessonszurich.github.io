@@ -16,6 +16,8 @@ In my classes, my students learn music comprehensively. My personalized lessons 
 
 My personal mission is to keep children motivated and committed to playing the piano. With this purpose, I use a method adapted to each child, where the student learns not only how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! The goal is to play the pieces you love soon!
 
+## My approach
+
 **My approach** | 
 --- |
 **1. They learn while having fun**: Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way | 
