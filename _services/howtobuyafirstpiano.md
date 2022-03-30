@@ -74,16 +74,15 @@ In this post, we will talk about the portable digital piano (also called slab pi
 
 You will below find different models of digital pianos from different brands. The prices are approximate (please, check them in the shop).
 
-YAMAHA
 
-Useful links:
+YAMAHA 
 
-Transportable digital piano
-P-Series:
-P-45 (526 euros)
-P-125 (751 euros)
-P-121 (632 euros)
-P-515 (1.878 euros)
+- Transportable digital piano
+* P-Series:
+- P-45 (526 euros)
+- P-125 (751 euros)
+- P-121 (632 euros)
+- P-515 (1.878 euros)
 Portable Grand:
 · DGX-660 (749 euros)
 Console digital piano
