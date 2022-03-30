@@ -15,12 +15,12 @@ In my classes, my students learn music comprehensively. My personalized lessons 
 
 My personal mission is to keep you motivated and committed to playing the piano. With this purpose, I use a method adapted to each student, taking into account what you want to achieve and what you like. They won't only know how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! We'll focus on the topics that you want to learn better.
 
-## My approach
-
-1. **You learn piano at your own pace**: With a personalized and progressive method, which takes into account your lifestyle and expectations.
-2. **With unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes. 
-3. **Constant communication**: Be connected constantly to your teacher and solve your doubts instantly.
-4. **Use of supplementary activities**: Participate in supplementary group lessons, recitals, and community-building events. Feel part of a community that motivates you and helps you commit to your learning.
+**My approach** | 
+--- |
+**1. You learn piano at your own pace**: With a personalized and progressive method, which takes into account your lifestyle and expectations | 
+**2. Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes | 
+**3. Constant communication**: Be connected constantly to your teacher and solve your doubts instantly | 
+**4. Use of supplementary activities**: Participate in supplementary group lessons, recitals, and community-building events. Feel part of a community that motivates you and helps you commit to your learning |  
 
 ## Contents
 My students:
