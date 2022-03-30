@@ -7,6 +7,8 @@ weight: 4
 
 A program for ages 11 to 99, where teenagers and adults can make their goals and musical aspirations true, through an engaging method, that will get them quickly to play the pieces they love. 
 
+![one-single-line-drawing-of-young-happy-male-pianist-playing-electric-synthesizer-a-modern-keyboard-piano-musician-artist-performance-concept-continuous-line-draw-design-graphic-illustration-vector](https://user-images.githubusercontent.com/101880157/160839381-1c45e192-fb99-452b-a3e6-9165902e9857.jpeg)
+
 In my classes, my students learn music comprehensively. My personalized lessons do not only focus on repertoire, but also on music theory, sight-reading, ear training, improvisation, and composition. This allows them to express themselves through several styles of music, creating performances full of artistry and musicality, but also to create their own music. They also learn music history through supplementary group lessons and play four hand duets with other students or me. They learn while having fun and they become well-rounded and knowledgeable musicians.  
 
 ## Goals
