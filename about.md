@@ -12,7 +12,6 @@ My name is Clara and I'm a classically-trained pianist and a piano teacher. I fu
 
  <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160489496-d1804178-0e6d-4792-9127-17dedb4b21d9.png">
 
-
 ## Formación
 
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
@@ -42,14 +41,3 @@ Creates a new appreciation and perception for the music. It gives you an underst
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjMhR3xBP88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **So I have one mission... making music part of my students' lifes!**
-
-My students:
-* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
-* Lose your fear of music theory by studying it applied to the pieces that you learn.
-* Write your own songs, improvise and train your musical ear.
-* Learn several styles of music, starting from a classical approach and taking into account your preferences.
-* Play four hands duets with me, other students, or a family member.
-* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
-* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
-* Get constant feedback during the week.
-* Gain confidence in yourself thanks to your successes.
