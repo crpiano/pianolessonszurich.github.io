@@ -43,3 +43,13 @@ Creates a new appreciation and perception for the music. It gives you an underst
 
 **So I have one mission... making music part of my students' lifes!**
 
+My students:
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
+* Lose your fear of music theory by studying it applied to the pieces that you learn.
+* Write your own songs, improvise and train your musical ear.
+* Learn several styles of music, starting from a classical approach and taking into account your preferences.
+* Play four hands duets with me, other students, or a family member.
+* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
+* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
+* Get constant feedback during the week.
+* Gain confidence in yourself thanks to your successes.
