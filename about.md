@@ -15,12 +15,8 @@ My name is Clara and I'm a classically-trained pianist and a piano teacher. I fu
 
 ## Formación
 
- * I believe strong foundations create great pianists. Through my classes, I aim to give my students the techniques they need to practice correctly and create performances with plenty of musicality, confidence, and passion.
-
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
 in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. 
-My personal mission is to keep you motivated and committed to playing the piano. With this purpose, I use a method adapted to each student, taking into account what you want to achieve and what you like. They won't only know how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! We'll focus on the topics that you want to learn better.
-
 
 ## My teaching philosophy
 
