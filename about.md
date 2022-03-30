@@ -1,7 +1,7 @@
 ---
 title: About
 layout: teams
-description: About
+description: My name is Clara and I'm a classically-trained pianist and a piano teacher. I fully dedicate myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
