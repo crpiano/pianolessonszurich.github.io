@@ -81,16 +81,19 @@ Transportable digital piano | Console digital piano
 P-Series: P-45 (526 euros), P-125 (751 euros), P-121 (632 euros), P-515 (1.878 euros), DGX-660 (749 euros) | YDP-S34   (1.017 euros), YDP-144 (1.017 euros), YDP-S54 (1.319 euros), YDP-164 (1.319 euros), CLP Clavinova series (from 1.900 euros), CSP Clavinova series (from 2000 euros), CVP de Clavinova series (from 2500 euros)
 
 **Kawai**
+
 Transportable digital piano | Console digital piano
 --- | --- 
-ES Series: ES110 (569 euros), ES8 (1.200 euros) | CL Series: CL 36 (816 euros). CN Series: CN29 (1.200 euros), CN39 (1.500 euros). KDP Series: KDP 110 (839 euros). CA Series: CA-49 (1.900 euros), CA-59 (2.500 euros), CA-79 (2.999 euros), CA-99 (4.333 euros). CS Series: CS11 (3.600 euros)
+ES Series: ES110 (569 euros), ES8 (1.200 euros) | CL Series: CL 36 (816 euros), CN Series: CN29 (1.200 euros), CN39 (1.500 euros), KDP Series: KDP 110 (839 euros), CA Series: CA-49 (1.900 euros), CA-59 (2.500 euros), CA-79 (2.999 euros), CA-99 (4.333 euros), CS Series: CS11 (3.600 euros)
 
 **Roland**
+
 Transportable digital piano | Console digital piano
 --- | --- 
 FP Series: Roland FP-10 (450   euros), Roland   FP-30 (589 euros), FP-60 (1.160   euros), FP-90 (1.666   euros) | RP 102 (from 800 euros), RP 501R (from 1.000 euros), F-140 R (from 1.000 euros), HP Series (from 1.500 euros), DP603 (from 2.000 euros)
 
 **Casio**
+
 Transportable digital piano | Console digital piano
 --- | --- 
 CDP-S100 (340 euros), CDP-S350 (480 euros), PX-S1000 (524 euros), PX-S3000 (825 euros) | PX-870 (799 euros), PX-770 (679 euros), AP 270 (679 euros), AP470 (919 euros), AP650 (1059 euros), AP710 (1498 euros)
