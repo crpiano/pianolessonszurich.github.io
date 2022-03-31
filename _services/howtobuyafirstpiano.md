@@ -8,6 +8,9 @@ layout: service
 
 Deciding to learn piano is the first step on an incredibly rewarding journey. The instrument you choose to accompany you on this trip will be a daily source of satisfaction, and its presence in your home will change your life and the lives of the people around you. In this post I will give you all the information you need to choose a piano to start learning.
 
+<img width="498" alt="piano keys" src="https://user-images.githubusercontent.com/101880157/161064371-9234bb49-6e0e-4738-a261-64ab96270a97.png">
+
+
 # Parte 1: Minimums of a piano for beginners and options
 
 ## What do I have to know before I start looking at pianos?
