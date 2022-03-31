@@ -38,6 +38,4 @@ Learning music...
 
 <img width="916" alt="Screenshot 2022-03-31 at 14 43 20" src="https://user-images.githubusercontent.com/101880157/161058520-bdfdd88d-4eaf-4ba1-aef2-775a70f26524.png">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yjMhR3xBP88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
