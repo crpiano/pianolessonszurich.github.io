@@ -1,16 +1,16 @@
 [
   {
-    "title": "Jenny, piano student",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Piano Lessons 100% tailored to you",
+    "description": "I adapt to your goals and design a method tailored to you which makes you advance while you enjoy",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/illustrations/one-single-line-drawing-of-luxury-wooden-grand-piano-modern-classical-music-instruments-concept-continuous-line-draw-design-illustration-graphic-vector.jpeg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Professional and meticulous teacher",
+    "description": "Learn piano with a passionate teacher",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Communication after the lesson",
+    "description": "I send you feedback during the week and material to keep you motivated",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
