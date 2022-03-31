@@ -7,7 +7,7 @@ weight: 1
 
 Piano Lessons in English and Spanish for Children and Adults where we focus on **your goals and music taste**
  
- <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160837447-d68aa53a-005c-4552-8b5e-23cf44008a28.jpg">
+<img width="471" alt="piano player" src="https://user-images.githubusercontent.com/101880157/161061760-14ca4c58-67db-4514-9757-5c6c6a473a66.png">
 
 ## Location 
 * At teacher's location: Oerlikon, Zürich, Switzerland
