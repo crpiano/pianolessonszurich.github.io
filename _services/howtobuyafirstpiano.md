@@ -137,9 +137,9 @@ Apart from knowing the history of that particular piano, the professional will c
 
 In the following videos, you will find important tips to evaluate a used piano.
 
-<iframe width="370" height="286" src="https://www.youtube.com/embed/Y2e3kPzP5kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="370" height="268" src="https://www.youtube.com/embed/Y2e3kPzP5kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="370" height="286" src="https://www.youtube.com/embed/1TqTIroFaac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="370" height="268" src="https://www.youtube.com/embed/1TqTIroFaac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Part 5: Where shall I buy the piano?
 
