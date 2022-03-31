@@ -61,3 +61,7 @@ Shared piano lessons and parent-child piano lessons.
 * Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
 * Prepare for tests.
+
+## Reviews
+
+<img width="916" alt="Screenshot 2022-03-31 at 14 43 20" src="https://user-images.githubusercontent.com/101880157/161057534-eb8cd1e0-99dd-4263-95cd-1b6752bd62f6.png">
