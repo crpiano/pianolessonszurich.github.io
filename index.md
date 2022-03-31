@@ -10,4 +10,4 @@ show_call_box: true
 
 # Piano Lessons in Zürich with Clara
 
-Piano Lessons in Zürich Oerlikon and home visits in Zürich area
+Piano Lessons for all ages in Zürich with a professional and passionate piano teacher 
