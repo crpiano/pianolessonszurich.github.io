@@ -27,7 +27,7 @@ My personal mission is to keep children motivated and committed to playing the p
 
 ## Contents
 My students:
-* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy and to be able to play the pieces you like soon!
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents.
 * Lose their fear of music theory by studying it applied to the pieces their learn.
 * Write thier own songs, improvise and train their musical ear.
 * Learn several styles of music, starting from a classical approach and taking into account their preferences.
@@ -35,10 +35,12 @@ My students:
 * Learn with a wide variety of materials and games, which will make them remember and reinforce musical concepts and enhance their learning in a fun way.
 * Know how to practice correctly, creating an effective routine that makes they feel excited and motivated at home.
 * Get constant feedback during the week.
-* Gain confidence in yourself thanks to your successes.
+* Gain confidence in themselves thanks to their successes.
 * Get constant feedback during the week.
-* Celebrate and share your successes, feeling part of a supportive community.
-* Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
+* Celebrate and share their successes, feeling part of a supportive community.
+* Learn music history through the piano lessons and supplementary group lessons, where they are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
 * Prepare for tests.
+
+Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy and to be able to play the pieces you like soon!
 
