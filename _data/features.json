@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Professional and classically trained piano teacher",
-    "description": "Learn piano with an experienced piano teacher",
+    "title": "Experienced piano teacher",
+    "description": "Learn piano with a professional and classically trained piano teacher ",
     "image": {
       "url": "images/features/piano keys.png",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Get feedback during the week",
-    "description": "Keep motivated during your practice and between lessons",
+    "title": "Keep motivated during your practice",
+    "description": "Get feedback during the week and between the lessons",
     "image": {
       "url": "images/features/Atronauta.png",
       "width": 80,
