@@ -5,7 +5,7 @@ featured: true
 weight: 1
 ---
 
-Piano Lessons in English and Spanish for Children and Adults where we focus on **your goals and music taste**
+Piano Lessons in English and Spanish for Children and Adults with a focus on **your goals and music taste**.
  
 <img width="471" alt="piano player" src="https://user-images.githubusercontent.com/101880157/161061760-14ca4c58-67db-4514-9757-5c6c6a473a66.png">
 
@@ -47,8 +47,8 @@ You'll only need to have a digital or acoustic piano at home. The rest of materi
 Shared piano lessons and parent-child piano lessons. 
 
 ## You will
-* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
-* Lose your fear of music theory by studying it applied to the pieces that you learn.
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy and be able to play the pieces you like soon!
+* Lose your fear of music theory by studying it applied to the pieces you learn.
 * Write your own songs, improvise and train your musical ear.
 * Learn several styles of music, starting from a classical approach and taking into account your preferences.
 * Play four hands duets with me, other students, or a family member.
@@ -59,7 +59,7 @@ Shared piano lessons and parent-child piano lessons.
 * Get constant feedback during the week.
 * Celebrate and share your successes, feeling part of a supportive community.
 * Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
-* Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
+* Benefit from the better academic results, the memory improvement, or the increased self-esteem that learning an instrument provides.
 * Prepare for tests.
 
 ## Reviews
