@@ -1,16 +1,16 @@
 [
   {
     "title": "Piano Lessons 100% tailored to you",
-    "description": "I adapt to your goals and design a method tailored 100% to you",
+    "description": "Learn piano with a method 100% designed for you",
     "image": {
       "url": "images/features/piano player.png",
       "width": 100,
-      "height": 80
+      "height": 60
     }
   },
   {
-    "title": "Professional and meticulous teacher",
-    "description": "I am a passionate teacher who is focused on your learning. Professionality and meticulosity are two of my main values",
+    "title": "Professional and classically trained piano teacher",
+    "description": "Learn piano with an experienced piano teacher",
     "image": {
       "url": "images/features/piano keys.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Get feedback during the week",
-    "description": "I like to communicate with my students during the week and send you materials to keep you motivated",
+    "description": "Keep motivated during your practice and between lessons",
     "image": {
       "url": "images/features/Atronauta.png",
       "width": 80,
