@@ -29,6 +29,12 @@ Piano Lessons in English and Spanish for Children and Adults with a focus on **y
 * Beginner
 * Intermediate
 * Advance
+
+## Music Style
+* Classical
+* Pop
+* Jazz
+* Soundtracks
  
 ## Lesson length
 * 45 minutes
