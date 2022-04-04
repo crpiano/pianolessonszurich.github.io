@@ -12,8 +12,9 @@ My name is Clara and I'm a classically-trained pianist and a piano teacher from 
 
 ## Formación
 
-I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
-in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation in 2019, where I obtained the spanish qualification to become a teacher. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. I have been teaching for 7 years
+I got the Bachelor Degree in Piano Performance in Valencia, and completed a Master of Piano Performance and Performance Research
+in Madrid, where I after obtained an Artist Diploma in Piano Performance. 
+In parallel to completing my piano formation in several piano masterclasses and piano courses, I have been teaching for more than 7 years in different music schools and conservatoires. I completed my pedagogic formation in 2019, when I obtained the spanish teaching diploma. I currently combine my work as a professional pianist with teaching students from different ages and levels. 
 
 ## My teaching philosophy
 
