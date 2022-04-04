@@ -24,18 +24,19 @@ My personal mission is to keep you motivated and committed to playing the piano.
 
 ## Contents
 My students:
-* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing their talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy the piano and play the pieces you like soon!
-* Lose your fear of music theory by studying it applied to the pieces that you learn.
-* Write your own songs, improvise and train your musical ear.
-* Learn several styles of music, starting from a classical approach and taking into account your preferences.
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing their talents. 
+* Lose their fear of music theory by studying it applied to the pieces that they learn.
+* Write their own songs, improvise and train their musical ear.
+* Learn several styles of music, starting from a classical approach and taking into account their preferences.
 * Play four hands duets with me, other students, or a family member.
-* Learn with a wide variety of materials and games, which will make you remember and reinforce musical concepts and enhance your learning in a fun way.
-* Know how to practice correctly, creating an effective routine that makes you feel excited and motivated at home.
+* Learn with a wide variety of materials and games, which will make them remember and reinforce musical concepts and enhance their learning in a fun way.
+* Know how to practice correctly, creating an effective routine that makes them feel excited and motivated at home.
 * Get constant feedback during the week.
-* Gain confidence in yourself thanks to your successes.
+* Gain confidence in themselves thanks to their successes.
 * Get constant feedback during the week.
-* Celebrate and share your successes, feeling part of a supportive community.
-* Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
+* Celebrate and share their successes, feeling part of a supportive community.
+* Learn music history through the piano lessons and supplementary group lessons, where they are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
 * Prepare for tests.
 
+Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy the piano and play the pieces you like soon!
