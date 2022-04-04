@@ -18,13 +18,13 @@ My personal mission is to keep you motivated and committed to playing the piano.
 **My approach** | 
 --- |
 **1. You learn piano at your own pace**: With a personalized and progressive method, which takes into account your lifestyle and expectations | 
-**2. Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes | 
+**2. Unique materials**: A varied and personalized method with materials adapted to online and in-person lessons, that enhance your talents and your likes | 
 **3. Constant communication**: Be connected constantly to your teacher and solve your doubts instantly | 
-**4. Use of supplementary activities**: Participate in supplementary group lessons, recitals, and community-building events. Feel part of a community that motivates you and helps you commit to your learning |  
+**4. Supplementary activities**: Participate in supplementary group lessons, recitals, and community-building events. Feel part of a community that motivates you and helps you commit to your learning |  
 
 ## Contents
 My students:
-* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing your talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy playing the piano and to be able to play the pieces you like soon!
+* Play and read songs from different styles quickly, working at the same time on piano technique, sight-reading, and musicality, and enhancing their talents. Do you want to play the songs that you like? Do you want to play for your family and friends? The goal is for you to enjoy the piano and play the pieces you like soon!
 * Lose your fear of music theory by studying it applied to the pieces that you learn.
 * Write your own songs, improvise and train your musical ear.
 * Learn several styles of music, starting from a classical approach and taking into account your preferences.
