@@ -29,7 +29,7 @@ Learning music...
 >* Connects you with others. 
 * Breaks barriers, brings people together, and creates beautiful communities of people that share the same goals.
 * Changes your life, makes you reconnect with your inner self, opens up the possibility of expressing yourself through a unique language, and creates an intimate bond between the music and you.
-* Creates a new appreciation and perception for the music. It gives you an understanding from the insight of it, and a way to express yourself through the music language. 
+* Creates a new appreciation and perception for it. It gives you an understanding from the insight of music, and a way to express yourself through the music language. 
 
 **So I have one mission... making music part of my students' lifes!**
 
