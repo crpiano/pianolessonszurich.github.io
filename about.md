@@ -8,12 +8,12 @@ intro_image_hide_on_mobile: false
 
  <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160489496-d1804178-0e6d-4792-9127-17dedb4b21d9.png">
 
-My name is Clara and I'm a classically-trained pianist and a piano teacher. I fully dedicate myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
+My name is Clara and I'm a classically-trained pianist and a piano teacher from Spain, where I studied piano and worked as a piano teacher for more than 7 years. I recently moved to Zürich, where I keep dedicating myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
 
 ## Formación
 
 I did a Bachelor Degree in Piano Performance and completed a Master of Piano Performance and Performance Research
-in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. I have been teaching for 7 years
+in Spain, where I also obtained an Artist Diploma in Piano Performance. In parallel to completing my piano formation in several piano masterclasses and piano courses, I completed my pedagogic formation in 2019, where I obtained the spanish qualification to become a teacher. I combine my work on performing as a soloist and as a member of several chamber music formations and teaching students from different ages and levels. I have been teaching for 7 years
 
 ## My teaching philosophy
 
