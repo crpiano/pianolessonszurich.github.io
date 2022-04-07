@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="240px" height="64px" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 66.5px; white-space: pre;" x="22.74" y="212.488" dx="39.046 0 0 0 0 0.773" dy="50.178 0 0 0 0 -0.577">Zürich Piano</text>
+<svg width="240px" height="64px" viewBox="0 0 240 64" xmlns="http://www.w3.org/2000/svg">
+  <text style="fill: black; font-family: &quot;Playfair Display&quot;; font-size: 100.5px; white-space: pre;" x="-40.805" y="222.424" dx="39.046 0 0 0 0 0.773" dy="50.178 0 0 0 0 -0.577" transform="matrix(0.401513, 0, 0, 0.435021, 4.627175, -71.474876)">Zürich Piano</text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="277.678" y="218.835"> </text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="592.423" y="296.708"> </text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="245.51" y="139.55"> </text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="532.902" y="241.221"> </text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="148.582" y="215.948"> </text>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.5px;" x="226.52" y="187.483"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 48.6px;" x="419.758" y="125.414"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 48.6px;" x="527.586" y="293.904"><tspan x="527.5859985351562" dy="1em">​</tspan><tspan x="527.5859985351562" dy="1em">​</tspan></text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 48.6px;" x="637.985" y="470.371"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 48.6px;" x="-122.922" y="359.64"> </text>
 </svg>
