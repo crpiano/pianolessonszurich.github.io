@@ -34,7 +34,7 @@ Lesson length | At theacher's location and online | At the student's place
 ## Policies
 
 1. New students can get a trial period of 1 lesson. After that, lessons are booked in packages. This ensures commitment.
-2. Payments will be made by E-banking or PayPal as soon as the new period of 5 lessons starts. 
+2. Payments will be made by E-banking, PayPal or cash as soon as the new period of 5 lessons starts. 
 3. The student must have a digital or acoustic piano at home.
 4. The payment of the 5 lessons is in advance and is payed fully even in case of abandon.
 5. Except in cases of force majeure, no lesson will be refunded. Lessons missed by students are not replaced.
