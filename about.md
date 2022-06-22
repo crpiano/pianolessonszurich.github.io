@@ -37,6 +37,6 @@ Learning music...
 
 ## Reviews
 
-<img width="916" alt="Screenshot 2022-03-31 at 14 43 20" src="https://user-images.githubusercontent.com/101880157/161058520-bdfdd88d-4eaf-4ba1-aef2-775a70f26524.png">
+
 
 
