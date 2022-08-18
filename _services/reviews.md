@@ -7,6 +7,3 @@ layout: service
 ---
 
 Parent and students testimonials
-
-
-
