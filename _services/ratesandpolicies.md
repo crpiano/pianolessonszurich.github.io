@@ -19,7 +19,7 @@ Lesson length | At theacher's location and online | At the student's place
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-45 minutes | 70,3 CHF | 76,95 CHF
+45 minutes | 70,3 CHF*price per lesson | 76,95 CHF
 60 minutes | 95,95 CHF | 191,65 CHF
 90 minutess | 145,35 CHF| 151,05 CHF
 
