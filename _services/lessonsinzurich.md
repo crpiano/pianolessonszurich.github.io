@@ -69,3 +69,7 @@ Shared piano lessons and parent-child piano lessons.
 * Prepare for tests.
 
 ## Reviews
+
+<img width="1032" alt="Screenshot 2022-08-30 at 16 16 06" src="https://user-images.githubusercontent.com/101880157/187461378-6ab01ac0-d23c-4284-bbe7-061d0f045cc5.png">
+
+<img width="1123" alt="Screenshot 2022-08-30 at 16 15 11" src="https://user-images.githubusercontent.com/101880157/187461401-38770210-911f-4303-9fe3-885ac52e2474.png">
