@@ -11,25 +11,25 @@ Current rates for 2021-2022
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-45 minutes | 60 CHF | 65 CHF
-60 minutes | 81 CHF | 86 CHF
-90 minutess | 124 CHF| 127 CHF
+45 minutes | 60 CHF | 75 CHF
+60 minutes | 81 CHF | 96 CHF
+90 minutess | 124 CHF| 139 CHF
 
 ## Package of 5 lessons (5% discount)
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-45 minutes | 70,3 CHF*price per lesson | 76,95 CHF
-60 minutes | 95,95 CHF | 191,65 CHF
-90 minutess | 145,35 CHF| 151,05 CHF
+45 minutes | 70 CHF*price per lesson | 85 CHF
+60 minutes | 96 CHF | 111 CHF
+90 minutess | 146 CHF| 161 CHF
 
 ## Price per isolated lesson (only for advanced students)
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-45 minutes | 74 CHF | 81 CHF
-60 minutes | 101 CHF | 107 CHF
-90 minutess | 153 CHF| 159 CHF
+45 minutes | 74 CHF | 89 CHF
+60 minutes | 101 CHF | 116 CHF
+90 minutess | 153 CHF| 168 CHF
 
 ## Policies
 
