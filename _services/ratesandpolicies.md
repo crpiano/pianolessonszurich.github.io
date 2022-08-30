@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-Current rates for 2021-2022
+Current rates for 2022-2023
 
 ## Price per trial lesson lesson (only for the first lesson, 20% discount)
 
