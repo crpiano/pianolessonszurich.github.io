@@ -13,7 +13,7 @@ Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
 45 minutes | 60 CHF | 75 CHF
 60 minutes | 81 CHF | 96 CHF
-90 minutess | 124 CHF| 139 CHF
+90 minutes | 124 CHF| 139 CHF
 
 ## Package of 5 lessons
 
@@ -21,7 +21,7 @@ Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
 45 minutes | 80 CHF*price per lesson | 95 CHF
 60 minutes | 96 CHF | 111 CHF
-90 minutess | 146 CHF| 161 CHF
+90 minutes | 146 CHF| 161 CHF
 
 ## Price per isolated lesson (only for advanced students)
 
@@ -29,7 +29,7 @@ Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
 45 minutes | 90 CHF | 105 CHF
 60 minutes | 111 CHF | 126 CHF
-90 minutess | 163 CHF| 178 CHF
+90 minutes | 163 CHF| 178 CHF
 
 ## Policies
 
