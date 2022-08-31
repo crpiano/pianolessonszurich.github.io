@@ -11,6 +11,7 @@ Current rates for 2022-2023
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
+30 minutes | 50 CHF | 65 CHF
 45 minutes | 60 CHF | 75 CHF
 60 minutes | 81 CHF | 96 CHF
 90 minutes | 124 CHF| 139 CHF
@@ -19,6 +20,7 @@ Lesson length | At theacher's location and online | At the student's place
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
+30 minutes | 60 CHF | 75 CHF
 45 minutes | 80 CHF*price per lesson | 95 CHF
 60 minutes | 96 CHF | 111 CHF
 90 minutes | 146 CHF| 161 CHF
