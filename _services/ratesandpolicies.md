@@ -22,13 +22,10 @@ Lesson length | At theacher's location and online | At the student's place
 
 Lesson length | At theacher's location and online | At the student's place
 --- | --- | ---
-30 minutes* | 60 CHF** | 75 CHF
+30 minutes* the 30 min. lesson is only for children between 4-7 years old | 60 CHF** price per lesson | 75 CHF
 45 minutes | 80 CHF | 95 CHF
 60 minutes | 96 CHF | 111 CHF
 90 minutes | 146 CHF| 161 CHF
-
-* The 30 min. lesson is only for children between 4-7 years old
-* * Price per lesson
 
 ## Price per isolated lesson (only for advanced students)
 
