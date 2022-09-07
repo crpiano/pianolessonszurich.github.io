@@ -43,7 +43,7 @@ Lesson length | At theacher's location and online | At the student's place
 6. A lesson can be cancelled in the event of unforeseen circumstances. In this case, the missed lesson will be changed to an available timetable. 
 7. Lessons are taught once per week. 
 8. Lessons are given on Monday, Tuesday, Wednesday, Thursday and Friday from 9am to 19:30pm. 
-9. The 30 min. lesson is only for children between 4-7 years old. 
+9. The 30 min lesson is only for children between 4-7 years old. 
 10. Each student selects a time for the class and comits to come each week at this slot. 
 11. Public holidays will be caught up as soon as possible in the following month according to everyone's availability.
 12. Departures will be announced no later than one month before the end of the lessons.
