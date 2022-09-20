@@ -16,5 +16,5 @@ Parent and students testimonials
 
 <img width="1033" alt="Screenshot 2022-09-20 at 18 23 47" src="https://user-images.githubusercontent.com/101880157/191312485-b76f8933-a001-4bb8-befe-1ea5f8c8bf9f.png">
 
-<img width="1059" alt="Screenshot 2022-09-20 at 18 24 01" src="https://user-images.githubusercontent.com/101880157/191312531-a3719100-b392-4ed6-abd7-143e3e4eb85b.png">
+<img width="1014" alt="Screenshot 2022-09-20 at 18 27 01" src="https://user-images.githubusercontent.com/101880157/191313105-462b3453-8491-4e95-a8cd-c6eb7616e184.png">
 
