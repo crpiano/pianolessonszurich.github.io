@@ -6,14 +6,6 @@ description: Contact
 
 Hello and many thanks for visiting my webpage! Thinking of starting piano lessons? I'm committed to helping you start or continue your musical adventure with the piano, and share my passion for music with you. Please, contact me through **email, Whatsapp or phone call**. **I will reply you within 24 hours**. I look forward to hearing from you!
 
-NEW: 
-You can also book a lesson here:
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/pianozurich" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
 **Location**
 
 * Teacher’s location: Oerlikon, Zürich, Switzerland
