@@ -8,13 +8,13 @@ intro_image_hide_on_mobile: false
 
  <img width="390" alt="image" src="https://user-images.githubusercontent.com/101880157/160489496-d1804178-0e6d-4792-9127-17dedb4b21d9.png">
 
-My name is Clara and I'm a classically-trained pianist and a piano teacher from Spain, where I studied piano and worked as a piano teacher for more than 7 years. I recently moved to Zürich, where I keep dedicating myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
+My name is Clara and I'm a classically-trained pianist and a piano teacher from Spain. Since 2019 I am a qualified Conservatory piano teacher, and I enjoy teaching students of all ages and levels. I recently moved to Zürich, where I keep dedicating myself to my mission: to play the piano and transmit my passion for the piano through teaching. Nothing makes me happier than being able to give students a lifetime of music-making through the piano.
 
 ## Education
 
-I got the Bachelor Degree in Piano Performance in Valencia, and completed a Master of Piano Performance and Performance Research
+I got a Bachelor Degree in Piano Performance in Valencia, and completed a Master of Piano Performance and Performance Research
 in Madrid, where I after obtained an Artist Diploma in Piano Performance. 
-In parallel to completing my piano formation in several piano masterclasses and piano courses, I have been teaching for more than 7 years in different music schools and conservatoires. I completed my pedagogic formation in 2019, when I obtained the spanish teaching diploma. I currently combine my work as a professional pianist with teaching students from different ages and levels. 
+In parallel to completing my piano formation in several piano masterclasses and piano courses, I have been teaching piano for more than 7 years. I completed my pedagogic formation in 2019, when I obtained the qualification of State Piano Teacher in Spain, which allowed me to work on the Conservatory of Valencia for more than three years. I currently combine my work as a professional pianist with teaching students from different ages and levels. 
 
 ## My teaching philosophy
 
