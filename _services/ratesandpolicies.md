@@ -9,7 +9,7 @@ Current rates for 2022-2023
 
 ## Price per trial lesson lesson (only for the first lesson)
 
-Lesson length | At theacher's location and online | At the student's place
+Lesson length | At teacher's location and online | At the student's place
 --- | --- | ---
 30 minutes | 50 CHF | 65 CHF
 45 minutes | 60 CHF | 75 CHF
@@ -18,7 +18,7 @@ Lesson length | At theacher's location and online | At the student's place
 
 ## Package of 5 lessons
 
-Lesson length | At theacher's location and online | At the student's place
+Lesson length | At teacher's location and online | At the student's place
 --- | --- | ---
 30 minutes | 60 CHF*price per lesson | 75 CHF
 45 minutes | 80 CHF | 95 CHF
@@ -27,7 +27,7 @@ Lesson length | At theacher's location and online | At the student's place
 
 ## Price per isolated lesson (only for advanced students)
 
-Lesson length | At theacher's location and online | At the student's place
+Lesson length | At teacher's location and online | At the student's place
 --- | --- | ---
 45 minutes | 90 CHF | 105 CHF
 60 minutes | 111 CHF | 126 CHF
@@ -49,5 +49,6 @@ Lesson length | At theacher's location and online | At the student's place
 12. Departures will be announced no later than one month before the end of the lessons.
 13. Lessons are taught in English or Spanish.
 14. The student agrees to follow these policies.
+15. The student gets a follow-up email after the lesson with some lesson notes and tips for practicing.
 
 If you have any doubt, feel free to contact me.
