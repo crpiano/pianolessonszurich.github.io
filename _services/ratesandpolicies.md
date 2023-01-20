@@ -9,7 +9,7 @@ Current rates for 2022-2023
 
 ## Price per trial lesson lesson (only for the first lesson)
 
-Lesson length | At teacher's location 
+Lesson length | Price per lesson
 --- | --- 
 30 minutes | 50 CHF 
 45 minutes | 60 CHF 
@@ -18,16 +18,16 @@ Lesson length | At teacher's location
 
 ## Package of 5 lessons
 
-Lesson length | At teacher's location and online 
+Lesson length | Price per lesson
 --- | --- 
-30 minutes | 60 CHF*price per lesson 
+30 minutes | 60 CHF
 45 minutes | 80 CHF
 60 minutes | 96 CHF 
 90 minutes | 146 CHF
 
 ## Price per isolated lesson (only for advanced students)
 
-Lesson length | At teacher's location and online
+Lesson length | Price per lesson
 --- | --- 
 45 minutes | 90 CHF 
 60 minutes | 111 CHF 
