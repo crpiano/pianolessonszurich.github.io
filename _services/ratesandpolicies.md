@@ -9,34 +9,34 @@ Current rates for 2022-2023
 
 ## Price per trial lesson lesson (only for the first lesson)
 
-Lesson length | At teacher's location and online | At the student's place
---- | --- | ---
-30 minutes | 50 CHF | 65 CHF
-45 minutes | 60 CHF | 75 CHF
-60 minutes | 81 CHF | 96 CHF
-90 minutes | 124 CHF| 139 CHF
+Lesson length | At teacher's location 
+--- | --- 
+30 minutes | 50 CHF 
+45 minutes | 60 CHF 
+60 minutes | 81 CHF 
+90 minutes | 124 CHF
 
 ## Package of 5 lessons
 
-Lesson length | At teacher's location and online | At the student's place
---- | --- | ---
-30 minutes | 60 CHF*price per lesson | 75 CHF
-45 minutes | 80 CHF | 95 CHF
-60 minutes | 96 CHF | 111 CHF
-90 minutes | 146 CHF| 161 CHF
+Lesson length | At teacher's location and online 
+--- | --- 
+30 minutes | 60 CHF*price per lesson 
+45 minutes | 80 CHF
+60 minutes | 96 CHF 
+90 minutes | 146 CHF
 
 ## Price per isolated lesson (only for advanced students)
 
-Lesson length | At teacher's location and online | At the student's place
---- | --- | ---
-45 minutes | 90 CHF | 105 CHF
-60 minutes | 111 CHF | 126 CHF
-90 minutes | 163 CHF| 178 CHF
+Lesson length | At teacher's location and online
+--- | --- 
+45 minutes | 90 CHF 
+60 minutes | 111 CHF 
+90 minutes | 163 CHF
 
 ## Policies
 
 1. New students can get a trial period of 1 lesson. After that, lessons are booked in packages. This ensures commitment.
-2. Payments will be made by E-banking, PayPal or cash as soon as the new period of 5 lessons starts. 
+2. Payments will be made by E-banking or cash as soon as the new period of 5 lessons starts. 
 3. The student must have a digital or acoustic piano at home.
 4. The payment of the 5 lessons is in advance and is payed fully even in case of abandon.
 5. Except in cases of force majeure, no lesson will be refunded. Lessons missed by students are not replaced.
