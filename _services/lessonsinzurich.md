@@ -34,11 +34,12 @@ Piano Lessons in English and Spanish for Children and Adults with a focus on **y
 * Soundtracks
  
 ## Lesson length
+* 30 minutes
 * 45 minutes
 * 60 minutes
 * 90 minutes
 
-> I recomend that small children start with 45 min of lesson
+> For children aged 4-6 years, a 30-minute lesson is recommended.
 
 ## Calendar
 I offer piano classes throughout the whole year. The calendar is flexible and I can adapt to your availability. 
@@ -60,10 +61,10 @@ Shared piano lessons and parent-child piano lessons.
 * Get constant feedback during the week.
 * Gain confidence in yourself thanks to your successes.
 * Get constant feedback during the week.
-* Celebrate and share your successes, feeling part of a supportive community.
 * Learn music history through the piano lessons and supplementary group lessons, where you are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or the increased self-esteem that learning an instrument provides.
 * Prepare for tests.
+* Get after every lesson a follow email with tips to practice. 
 
 ## Reviews
 
