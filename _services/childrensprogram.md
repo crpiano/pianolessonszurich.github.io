@@ -11,6 +11,9 @@ A program specifically designed for children between 4 to 10 years old, where th
 
 In my classes, my students learn music comprehensively. My personalized lessons do not only focus on repertoire, but also on music theory, sight-reading, ear training, improvisation, and composition. This allows them to express themselves through several styles of music, creating performances full of artistry and musicality, but also to create their own music. They also learn music history through supplementary group lessons and play four hands duets with other students or me. They learn while having fun and they become well-rounded and knowledgeable musicians.
 
+<img width="745" alt="Screenshot 2023-01-20 at 22 48 29" src="https://user-images.githubusercontent.com/101880157/213811934-17faf86e-f2b1-4a73-af8a-655c86f2ca9d.png">
+
+
 ## Goals
 
 My personal mission is to keep children motivated and committed to playing the piano. With this purpose, I use a method adapted to each child, where the student learns not only how to play the piano musically, but also music theory, ear training, composing, improvising, sight-reading, music history, and even chamber music! The goal is to work on the pieces they love soon!
@@ -19,9 +22,9 @@ My personal mission is to keep children motivated and committed to playing the p
 
 **My approach** | 
 --- |
-**1. Children learn while having fun**. Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way | 
-**2. Unique materials**. A varied and personalized method with materials adapted to online and in-person lessons, that enhance their talents and their likes | 
-**3. Constant communication**. Children don't learn alone: they are connected constantly to the teacher and with their classmates | 
+**1. Having fun**. Children learn by playing games that reinforce musical concepts and enhance their learning process in a fun way | 
+**2. Using unique materials**. I use a varied and personalized method with materials adapted to each child, that enhance his talents and likes | 
+**3. Communicating constantly**. For me it is important to stay always in touch with the children and the families | 
 **4. Supplementary activities**. Children can share their progress with their family and friends in their recitals, and they can discover new music, pianists, composers, and much more in supplementary activities |  
 
 ## Contents
@@ -36,7 +39,7 @@ My students:
 * Get constant feedback during the week.
 * Gain confidence in themselves thanks to their successes.
 * Get constant feedback during the week.
-* Celebrate and share their successes, feeling part of a supportive community.
+* Celebrate and share their successes.
 * Learn music history through the piano lessons and supplementary group lessons, where they are provided with lots of materials that work on composers' lives and works, listening guides, and many other interesting topics.
 * Benefit from the better academic results, the memory improvement, or increased self-esteem that learning an instrument provides.
 * Prepare for tests.
