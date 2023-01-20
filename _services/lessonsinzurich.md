@@ -65,7 +65,7 @@ Shared piano lessons and parent-child piano lessons.
 * Benefit from the better academic results, the memory improvement, or the increased self-esteem that learning an instrument provides.
 * Prepare for tests.
 
-> Get a follow-up email after the lesson with lesson notes and tips for practicing
+> You will get a follow-up email after the lesson with lesson notes and tips for practicing.
 
 ## Reviews
 
