@@ -11,9 +11,7 @@ Piano Lessons in English and Spanish for Children and Adults with a focus on **y
 
 ## Location 
 * At teacher's location: Oerlikon, Zürich, Switzerland
-* At student's location: Around Zurich, Switzerland
-* Online via webcam
-
+* 
 ## Language
 * English
 * Spanish
@@ -33,7 +31,6 @@ Piano Lessons in English and Spanish for Children and Adults with a focus on **y
 ## Music Style
 * Classical
 * Pop
-* Jazz
 * Soundtracks
  
 ## Lesson length
