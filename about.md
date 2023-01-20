@@ -25,6 +25,10 @@ They say, “all you need to learn piano is talent and motivation”, but I beli
 * I believe in the powerful tool that the piano is for self-expression, communication, and mental well-being. The piano is more than just a beautiful instrument: it is a way of life.
 * I believe in the importance of sharing your passion and your successes, and setting goals that make you feel focused and keep track of your progress.
 
+
+<img width="745" alt="Screenshot 2023-01-20 at 22 48 29" src="https://user-images.githubusercontent.com/101880157/213811934-17faf86e-f2b1-4a73-af8a-655c86f2ca9d.png">
+
+
 Learning music...
 
 >* Connects you with others. 
