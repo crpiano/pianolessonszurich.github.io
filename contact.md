@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Hello and many thanks for visiting my webpage! Thinking of starting piano lessons? I'm committed to helping you start or continue your musical adventure with the piano, and share my passion for music with you. Please, contact me through **email, Whatsapp or phone call**. **I will reply you within 24 hours**. I look forward to hearing from you!
+Hello and many thanks for visiting my webpage! Thinking of starting piano lessons? I'm committed to helping you start or continue your musical adventure with the piano, and share my passion for music with you. Please, contact me through **my email**. **I will reply you within 24 hours**. I look forward to hearing from you!
 
 **Location**
 
