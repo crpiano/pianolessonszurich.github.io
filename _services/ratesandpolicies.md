@@ -11,27 +11,17 @@ Current rates for 2022-2023
 
 Lesson length | Price per lesson
 --- | --- 
-30 minutes | 50 CHF 
-45 minutes | 60 CHF 
-60 minutes | 81 CHF 
-90 minutes | 124 CHF
+30 minutes | 60 CHF 
+45 minutes | 80 CHF 
+60 minutes | 110 CHF 
 
-## Package of 5 lessons
-
-Lesson length | Price per lesson
---- | --- 
-30 minutes | 60 CHF
-45 minutes | 80 CHF
-60 minutes | 96 CHF 
-90 minutes | 146 CHF
-
-## Price per isolated lesson (only for advanced students)
+## Package of 5 lessons (after the first lesson)
 
 Lesson length | Price per lesson
 --- | --- 
-45 minutes | 90 CHF 
-60 minutes | 111 CHF 
-90 minutes | 163 CHF
+30 minutes | 70 CHF
+45 minutes | 90 CHF
+60 minutes | 120 CHF 
 
 ## Policies
 
