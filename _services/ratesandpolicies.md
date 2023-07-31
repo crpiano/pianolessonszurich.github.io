@@ -15,7 +15,7 @@ Lesson length | Price per lesson
 45 minutes | 80 CHF 
 60 minutes | 110 CHF 
 
-## Package of 5 lessons (after the first lesson)
+## Package of 5 lessons
 
 Lesson length | Price per lesson
 --- | --- 
